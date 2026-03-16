@@ -7,7 +7,7 @@ const CONFIG = {
   projects: {
       github: {
       display: true, 
-      header: 'Mis Proyectos (Desarrollo & Data)',
+      header: 'Proyectos',
       mode: 'manual', 
       manual: {
         projects: [
